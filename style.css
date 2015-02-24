@@ -2,5 +2,17 @@
 /* CSS Document */
 
 body{
-	background:#0C3;
+	background:#FFF;
+}
+#banner{
+	background:#0CC;
+	height:7em;
+	margin:-8px;
+}
+.menu{
+	display:inline-block;
+	background:#FC3;
+	text-decoration:none;
+	padding:1em;
+	margin:-10px;
 }
